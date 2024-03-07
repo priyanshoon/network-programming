@@ -1,6 +1,6 @@
 # Network Programming in C (Socket Programming)
 
-These repo is network programming tutorial in C language to understand the core
+This repo is network programming tutorial in C language to understand the core
 concept of networking. This will explain how TCP, UDP, send(), sendto() and all
 other program in socket.io under the hood works.
 
