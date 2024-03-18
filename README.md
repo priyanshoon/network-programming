@@ -1,4 +1,4 @@
-# Network Programming in C (Socket Programming)
+# Network Programming (Socket Programming)
 
 This repo is network programming tutorial in C language to understand the core
 concept of networking. This will explain how TCP, UDP, send(), sendto() and all
